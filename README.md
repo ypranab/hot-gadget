@@ -1,1 +1,1 @@
-# hot-gadget
+# hot-gadgets
